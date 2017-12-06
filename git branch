@@ -1,0 +1,17 @@
+[33m1b2c823[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: checkout: moving from same to master
+[33ma0216e6[m[33m ([m[1;32msame[m[33m)[m HEAD@{1}: checkout: moving from master to same
+[33m1b2c823[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{2}: commit (merge): 合并之前的额样子啊
+[33m8239d43[m HEAD@{3}: checkout: moving from same to master
+[33ma0216e6[m[33m ([m[1;32msame[m[33m)[m HEAD@{4}: checkout: moving from same to same
+[33ma0216e6[m[33m ([m[1;32msame[m[33m)[m HEAD@{5}: commit: 增加了新的box以及添加了样式
+[33mb9fcd01[m HEAD@{6}: checkout: moving from master to same
+[33m8239d43[m HEAD@{7}: commit: 添加样式文件
+[33mb9fcd01[m HEAD@{8}: checkout: moving from same to master
+[33mb9fcd01[m HEAD@{9}: checkout: moving from master to same
+[33mb9fcd01[m HEAD@{10}: reset: moving to b9fc
+[33mb9fcd01[m HEAD@{11}: checkout: moving from same to master
+[33mb9fcd01[m HEAD@{12}: checkout: moving from master to same
+[33mb9fcd01[m HEAD@{13}: commit: 添加了ul等
+[33m4d0ba48[m HEAD@{14}: commit: git
+[33m27a7a30[m HEAD@{15}: commit: git add index.html
+[33m91c3d43[m HEAD@{16}: commit (initial): 添加了一个文件名字是git.html
